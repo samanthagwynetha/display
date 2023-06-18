@@ -1,0 +1,56 @@
+.p{
+  font-family: arial;
+  font-size: large;
+}
+
+.ln{
+  width: 115px;
+  height: 30px;
+  color: rgb(165, 159, 159);
+  border: none;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.fn{
+  width: 115px;
+  height: 30px;
+  color: rgb(165, 159, 159);
+  border: none;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.email{
+  display: block;
+  width: 248px;
+  height: 30px;
+  color: rgb(165, 159, 159);
+  border: none;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+button{
+  display: block;
+  width: 262px;
+  height: 35px;
+  background-color: rgb(69, 69, 250);
+  color: rgb(255, 255, 255);
+  border: none;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  font-weight: bold;
+}
